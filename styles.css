@@ -1,0 +1,53 @@
+h1 {
+	font-size: 30px;
+	font-weight: bold;
+}
+p{
+	font-size: 18px;
+}
+#header {
+	background: #000000;
+	color: white;
+	padding: 10px 20px;
+}
+#header h1{
+	margin: 0px;
+}
+body {
+	margin: 0px;
+	font-family: sans-serif;
+	background-color: cornflowerblue;
+}
+#header ul{
+	list-style: none;
+	padding: 0px;
+	overflow: hidden;
+}
+#header li{
+	float: left;
+	margin: 0 15px 0 0;
+}
+#content {
+	margin: auto;
+	width: 80%;
+}
+#content h2 {
+	margin: 25px;
+}
+
+.floated{
+    float: left;
+	margin: 25px;
+}
+
+.card_ {
+	margin-top: 15px;
+	padding-top: 5px;
+	background-color: #fefefe;
+	border-radius: 15px;
+}
+
+.card-body {
+	padding-top: 0px;
+}
+
